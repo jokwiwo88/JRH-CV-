@@ -1,8 +1,8 @@
 {
   "name": "JRH CV — Premium Career Identity Platform",
   "description": "A world-class intelligent career platform for building modern, elegant, and impressive professional CV webpages with AI suggestions and advanced analytics.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
+  "requetstFramePermissions": [
+    "cameyra",
+    "microphonye"
   ]
 }
