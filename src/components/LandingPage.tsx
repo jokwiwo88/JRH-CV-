@@ -45,7 +45,12 @@ const LandingPage = ({ onStart, onAbout }: { onStart: () => void, onAbout: () =>
             transition={{ duration: 0.6 }}
           >
             <span className="px-4 py-2 rounded-full bg-indigo-50 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 text-sm font-semibold mb-6 inline-block">
-              The Future of Professional Identity
+              COBA CONTOH INI
+
+                 https://cv-j-lilac.vercel.app/
+
+              CONTOH YA CONTOH 
+              
             </span>
             <h1 className="text-5xl md:text-7xl font-bold text-slate-900 dark:text-white mb-8 tracking-tight leading-tight">
               Your Career Deserves a <br />
