@@ -47,7 +47,9 @@ const LandingPage = ({ onStart, onAbout }: { onStart: () => void, onAbout: () =>
             <span className="px-4 py-2 rounded-full bg-indigo-50 dark:bg-indigo-900/30 text-indigo-600 dark:text-indigo-400 text-sm font-semibold mb-6 inline-block">
               COBA CONTOH INI
 
-                 https://cv-j-lilac.vercel.app/
+                 <a href="https://cv-j-lilac.vercel.app/" target="_blank" rel="noopener noreferrer">
+  Klik di sini
+</a>
 
               CONTOH YA CONTOH 
               
