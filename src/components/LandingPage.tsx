@@ -48,7 +48,7 @@ const LandingPage = ({ onStart, onAbout }: { onStart: () => void, onAbout: () =>
               COBA CONTOH INI
 
                  <a href="https://cv-j-lilac.vercel.app/" target="_blank" rel="noopener noreferrer">
-  Klik di sini
+  Klik di sini KLIK INI CONTOH CV DISINI COBA LIHAT 
 </a>
 
               CONTOH YA CONTOH 
